@@ -24,8 +24,8 @@ An end-to-end Machine Learning web application designed to detect toxic and abus
 ---
 
 ## 💻 How to Run Locally
-
+http://localhost:8501/
 ### 1. Clone this repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/roman-urdu-abuse-detector.git](https://github.com/YOUR_USERNAME/roman-urdu-abuse-detector.git)
+git clone [https://github.com/YOUR_USERNAME/roman-urdu-abuse-detector.git](https://github.com/itsmirzahamza/roman-urdu-abuse-detector.git)
 cd roman-urdu-abuse-detector
